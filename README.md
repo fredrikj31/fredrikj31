@@ -2,7 +2,7 @@
 <!-- Banner -->
 <h3 align="center">Hi, I'm Fredrik Johansen, a Developer 🚀 from Denmark.</h3>
 <p align="center">
-	<img align="center" src="assets/coding.gif">
+	<img align="center" src="https://github.com/fredrikj31/fredrikj31/blob/master/assets/coding.gif">
 </p>
 
 <!-- Your badges
