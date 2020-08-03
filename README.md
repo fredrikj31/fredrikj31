@@ -14,7 +14,7 @@
   </a>
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning [React](https://img.shields.io/badge/-React-informational?style=flat&logo=React);
+- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=React" />;
 - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
