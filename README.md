@@ -5,10 +5,6 @@
 	<img align="center" src="https://github.com/fredrikj31/fredrikj31/blob/master/assets/coding.gif">
 </p>
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
 <!-- Talking about you -->
 #### **Talking about Personal Stuffs:**
 
@@ -18,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
   </a>
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI);
+- 🌱 I’m currently learning [React](https://img.shields.io/badge/-React-informational?style=flat&logo=React);
 - 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
