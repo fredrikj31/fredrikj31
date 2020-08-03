@@ -10,7 +10,7 @@
 
 <!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/fredrikj31">
-    <img width="55%" align="right" alt="Fredrik's github stats" src="https://github-readme-stats.vercel.app/api?username=fredrikj31&show_icons=true&hide_border=true" />
+    <img width="50%" align="right" alt="Fredrik's github stats" src="https://github-readme-stats.vercel.app/api?username=fredrikj31&show_icons=true&hide_border=true" />
   </a>
 
 - 💻 I’m currently working on different apps built on [Flutter](https://flutter.dev/)
