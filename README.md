@@ -9,14 +9,13 @@
 #### **Talking about Personal Stuffs:**
 
 <!-- Any image aligned to the right. Beware the width -->
-<a href="https://github.com/onimur/handle-path-oz">
+<a href="https://github.com/fredrikj31">
     <img width="55%" align="right" alt="Fredrik's github stats" src="https://github-readme-stats.vercel.app/api?username=fredrikj31&show_icons=true&hide_border=true" />
   </a>
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-informational?style=flat&logo=React" />;
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a blue headset so not the green one on the banner;
+- 💻 I’m currently working on different apps built on [Flutter](https://flutter.dev/)
+- 🌱 I’m currently learning [React](https://reactjs.org/)
+- 🤝 I’m looking to collaborate on My upcoming project. (Finance) 🤫
+- 💬 Ask me about anything, I am happy to help 😄
+- ⚡️ Fun-Fact: My favorite food is 🍔. But still no 🍍 on 🍕
 - 📫 How to reach me: fredrik1206@gmail.com;
