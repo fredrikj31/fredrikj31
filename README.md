@@ -6,7 +6,7 @@
 </p>
 
 <!-- Talking about you -->
-#### **Talking about Personal Stuffs:**
+#### **Talking about Personal Stuff:**
 
 <!-- Any image aligned to the right. Beware the width -->
 <a href="https://github.com/fredrikj31">
