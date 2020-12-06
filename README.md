@@ -1,6 +1,6 @@
 
 <!-- Banner -->
-<h3 align="center">Hi, I'm Fedrik Johansen, a Developer 🚀 from Denmark.</h3>
+<h3 align="center">Hi, I'm Fredrik Johansen, a Developer 🚀 from Denmark.</h3>
 <p align="center">
 	<img align="center" src="https://github.com/fredrikj31/fredrikj31/blob/master/assets/coding.gif">
 </p>
