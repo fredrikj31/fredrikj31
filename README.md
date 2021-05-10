@@ -19,3 +19,4 @@
 - 💬 Ask me about anything, I am happy to help 😄
 - ⚡️ Fun-Fact: My favorite food is 🍔. But still no 🍍 on 🍕
 - 📫 How to reach me: fredrik1206@gmail.com;
+- Profile Visits: ![](https://komarev.com/ghpvc/?username=fredrikj31)
