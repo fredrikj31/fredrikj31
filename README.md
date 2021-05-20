@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrikj31&label=Profile%20views&color=0e75b6&style=flat" alt="fredrikj31" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fredrikj31" alt="fredrikj31" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fredrikj31" target="blank"><img src="https://img.shields.io/twitter/follow/fredrikj31?logo=twitter&style=for-the-badge" alt="fredrikj31" /></a> </p>
 
 - 🔭 I’m currently working on [Different apps made in Flutter](https://github.com/H-C-Orsted-Gym/Flutter-Breathalyzer)
@@ -29,11 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/fredrikj31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="fredrikj31" height="30" width="40" /></a>
-<a href="https://twitter.com/fredrikj31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="fredrikj31" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fredrik-johansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="fredrik-johansen" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/9077059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="9077059" height="30" width="40" /></a>
-<a href="/https://fredrikj31.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://fredrikj31.github.io/feed.xml" height="30" width="40" /></a>
+<a href="https://codepen.io/fredrikj31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fredrikj31" height="30" width="40" /></a>
+<a href="https://twitter.com/fredrikj31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fredrikj31" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fredrik-johansen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fredrik-johansen" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9077059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9077059" height="30" width="40" /></a>
+<a href="/https://fredrikj31.github.io/feed.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://fredrikj31.github.io/feed.xml" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
