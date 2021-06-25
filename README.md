@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fredrik Johansen</h1>
-<h3 align="center">A self tought software developer 🚀 from Denmark</h3>
+<h3 align="center">A mostly self-taught software developer 🚀 from Denmark</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrikj31&label=Profile%20views&color=0e75b6&style=flat" alt="fredrikj31" /> </p>
 
@@ -13,15 +13,15 @@
 
 - 🤝 I’m looking for help with [My opensource projects](https://github.com/fredrikj31/OpenFinance)
 
-- 👨‍💻 All of my projects are available at [https://fredrikj31.github.io/portfolio/](https://fredrikj31.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://fredrikj31.github.io/portfolio/](https://fredrikj31.github.io/portfolio.html)
 
-- 📝 I regularly write articles on [https://fredrikj31.github.io/blog/](https://fredrikj31.github.io/blog/)
+- 📝 I regularly write articles on [https://fredrikj31.github.io/blog/](https://fredrikj31.github.io/blog.html)
 
 - 💬 Ask me about **Everything. I happy to help and figure it out with you**
 
 - 📫 How to reach me **fredrik1206@gmail.com**
 
-- 📄 Know about my experiences [https://fredrikj31.github.io/about/](https://fredrikj31.github.io/about/)
+- 📄 Know about my experiences [https://fredrikj31.github.io/about/](https://fredrikj31.github.io/resume.html)
 
 - ⚡ Fun fact **I love 🍣 and 🍔 over 🍕**
 
