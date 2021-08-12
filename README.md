@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fredrikj31&label=Profile%20views&color=0e75b6&style=flat" alt="fredrikj31" /> </p>
 
-<p align="left"> <a href="https://twitter.com/fredrikj31" target="blank"><img src="https://img.shields.io/twitter/follow/fredrikj31?logo=twitter&style=for-the-badge" alt="fredrikj31" /></a> </p>
+<p align="left"> <a href="https://twitter.com/fredrikj31" target="_blank"><img src="https://img.shields.io/twitter/follow/fredrikj31?logo=twitter&style=for-the-badge" alt="fredrikj31" /></a> </p>
 
 - 🔭 I’m currently working on [Different apps made in Flutter](https://github.com/H-C-Orsted-Gym/Flutter-Breathalyzer)
 
