@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Fredrik Johansen</h1>
-<h3 align="center">A mostly self-taught software developer 🚀 from Denmark</h3>
+# Hi 👋, I'm Fredrik Johansen
+### A mostly self-taught software developer 🚀 from Denmark
 
 - 🔭 I’m currently working on [Different apps made in Flutter](https://github.com/H-C-Orsted-Gym/Flutter-Breathalyzer)
 
