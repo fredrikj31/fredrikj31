@@ -15,7 +15,7 @@
 
 - 💬 Ask me about Everything. I happy to help and figure it out with you
 
-- 📫 How to reach me fredrik1206@gmail.com
+- 📫 How to reach me contact@fredrikjohansen.dev
 
 - 📄 Know about my experiences [https://fredrikjohansen.dev/resume](https://fredrikjohansen.dev/resume)
 
